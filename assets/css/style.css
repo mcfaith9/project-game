@@ -1,0 +1,14 @@
+body{
+  background: #282828;
+  
+}
+.container{
+  width:650px;
+  margin:0 auto;
+  padding:10px;
+}
+#game{
+  display:block;
+  margin:0 auto;
+  max-width:100%;
+}
